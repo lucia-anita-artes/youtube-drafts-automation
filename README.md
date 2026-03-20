@@ -24,21 +24,21 @@ Ele usa o perfil local do Chrome para reaproveitar o login da sua conta. Por iss
 ## Instalação
 
 ```bash
-cd /home/lucia/Downloads/youtube-drafts-automation
+cd /home/lucia/projetos/youtube-drafts-automation
 npm install
 ```
 
 ## Uso
 
 ```bash
-cd /home/lucia/Downloads/youtube-drafts-automation
+cd /home/lucia/projetos/youtube-drafts-automation
 npm run publish-drafts -- --playlist "Acervo de vídeos privados"
 ```
 
 Para shorts:
 
 ```bash
-cd /home/lucia/Downloads/youtube-drafts-automation
+cd /home/lucia/projetos/youtube-drafts-automation
 npm run publish-shorts-drafts -- --playlist "Acervo de vídeos privados"
 ```
 
